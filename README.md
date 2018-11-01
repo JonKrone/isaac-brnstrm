@@ -63,6 +63,8 @@ Commercial vs Residential recycling
 
 ## Ideas
 
+1. Canvas to talk to people about recycling. What do they know or not know about recycling? What are their pain points? What do they like about the system? What would like to see change or improved?
+
 1. Canvasing to educate people about recycling
 
 - What information is most compelling for people?
